@@ -46,20 +46,11 @@ form {
     color: #0d1010;
 }
 
-.input {
-    border: 3px solid #00796b;
-    border-radius: 5px;
-    padding: 10px;
-    width: 100%; 
-    font-size: 1rem;
-    color: #000;
-    background-color: #e0f2f1;
-}
-
-.input[readonly] {
-    background-color: #ec6d6d; 
-}
 
 @media (max-width: 600px) {
+
+    h1{
+        font-size: x-large;
+    }
     
 }
